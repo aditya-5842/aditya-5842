@@ -7,6 +7,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Vanishing and Exploding Gradients](https://levelup.gitconnected.com/vanishing-and-exploding-gradients-ae7fb88f3b66?source=rss-cdba06e8965b------2)
+- [Simple Search Engine](https://medium.com/@singhadityastudy/simple-search-engine-9062a644da5c?source=rss-cdba06e8965b------2)
+- [Jigsaw Unintended Bias in Toxicity Classification](https://medium.datadriveninvestor.com/jigsaw-unintended-bias-in-toxicity-classification-d9adf34307d3?source=rss-cdba06e8965b------2)
+- [Mathematics for Machine Learning](https://medium.com/analytics-vidhya/mathematics-for-machine-learning-4bbbfa0904f4?source=rss-cdba06e8965b------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
