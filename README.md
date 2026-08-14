@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aditya-5842" alt="aditya-5842" /></a> </p>
 
-- 🔭 I’m currently working at [MatrixCare](https://www.matrixcare.com/)
+- 🔭 I’m currently working at [ResMed](https://www.resmed.co.in/)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
